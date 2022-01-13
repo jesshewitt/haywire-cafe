@@ -27,37 +27,37 @@ The process of generating these works is described below. The steps are seemingl
 
 You'll notice that it looks quite different before the palette is applied!
 
-1. Generate a distorted background pattern  
+#### Generate a distorted background pattern  
 
 The pattern can be one of bubbles, checkers, circle, dots, grid, rings or stripes and is controlled by the `Pattern` feature. The distortion comes from the `Pattern Rotation` and `Pattern Skew` features.
 
 ![Step 1](./images/process/1-pattern.png)
 
-2. Generate some curl noise  
+#### Generate some curl noise  
 
 The curl noise creates the loopy, bandy foreground forms. It's controlled by the `Loop Scale` feature (smaller is more noodly) as well as a few hidden variables.
 
 ![Step 2](./images/process/2-curlnoise.png)
 
-3. Mix the two together  
+#### Mix the two together  
 
 When the two are combined, the curl noise develops a hard edge and outline which becomes more visible later. The edge is controlled by a hidden variable. This process also creates the appearance of dramatic shadows after the palette is applied.
 
 ![Step 3](./images/process/3-mix.png)
 
-4. Add some post processing  
+#### Add some post processing  
 
 Technically, this is pre-processing...scanlines and an inverted vignette are applied before the palette instead of at the end.
 
 ![Step 4](./images/process/4-scanlinesvignette.png)
 
-5. Apply a palette  
+#### Apply a palette  
 
 One of 21 palettes is applied, controlled by the `Palette` feature. 
 
 ![Step 5](./images/process/5-palette.png)
 
-6. Apply dithering  
+#### Apply dithering  
 
 Bayer 8x8 dithering is applied to create an interesting regular yet grainy look. Rarely, dust speckles are also applied, controlled by the `Dusty` feature.
 
