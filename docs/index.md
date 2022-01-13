@@ -18,7 +18,7 @@ This series is inspired by classic mind-bending mid century cartoons by the like
 ![The Phantom Tollbooth](./images/inspiration/tumblr_oxf2keO01U1rsovmko1_r1_1280.jpg)
 
 ### Process
-My creative process is often more one of discovery and intuitive curation than direct control. I've co-written a generative art app that I sometimes use to find that beginning direction. I'll randomize its settings and look for interesting output, which I will then develop and refine.  
+My creative process often involves an element of discovery and intuitive curation. I've co-written a generative art app that I sometimes use to find that beginning direction. I'll randomize its settings and look for interesting output, which I will then develop and refine.  
 
 Haywire Café was conceived in this way, and then replicated in standalone form and fine-tuned.  
 
