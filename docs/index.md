@@ -1,9 +1,9 @@
 
-## Overview
+## Project Overview
 Haywire Café is a long-form generative art project designed by Jess Hewitt for Art Blocks. The combination of bold colors, distorted patterns, and dramatic shadows create a surreal, nostalgic vibe.  
 
 ![Test Mint 5](./images/test5.png)
-![Test Mint 29](./images/test29.png)
+![Test Mint 26](./images/test26.png)
 ![Test Mint 49](./images/test49.png)
 
 ## Inspiration
