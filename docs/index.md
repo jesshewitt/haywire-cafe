@@ -1,6 +1,6 @@
 
 ## Project Overview
-Haywire Café is a long-form generative art project designed by Jess Hewitt for Art Blocks. The combination of bold colors, distorted patterns, and dramatic shadows create a surreal, nostalgic vibe.  
+Haywire Café is a long-form generative art project designed for Art Blocks. The combination of bold colors, distorted patterns, and dramatic shadows create a surreal, nostalgic vibe.  
 
 ![Test Mint 5](./images/test5.png)
 ![Test Mint 26](./images/test26.png)
@@ -21,9 +21,7 @@ My creative process often involves an element of discovery and intuitive curatio
 
 Haywire Café was conceived in this way, and then replicated in standalone form and fine-tuned.  
 
-The process of generating these works is described below. The steps are seemingly simple, but the magic happens in the pattern mixing and in the order of operations.  
-
-You'll notice that it looks quite different before the palette is applied!
+The process of generating these works is described below. It seems simple, but the magic happens in the method of pattern mixing and in the order of operations. Any small deviation from this formula creates a drastically different effect.  
 
 ### Generate a distorted background pattern  
 
@@ -33,7 +31,7 @@ The pattern can be one of bubbles, checkers, circle, dots, grid, rings or stripe
 
 ### Generate some curl noise  
 
-The curl noise creates the loopy, bandy foreground forms. It's controlled by the `Loop Scale` feature (smaller is more noodly) as well as a few hidden variables.
+The curl noise creates the loopy, bandy foreground forms. It's controlled by the `Loop Scale` feature (smaller is more bandy) as well as a few hidden variables.
 
 ![Step 2](./images/process/2-curlnoise.png)
 
@@ -43,9 +41,9 @@ When the two are combined, the curl noise develops a hard edge and outline which
 
 ![Step 3](./images/process/3-mix.png)
 
-### Add some post processing  
+### Add some effects 
 
-Technically, this is pre-processing...scanlines and an inverted vignette are applied before the palette instead of at the end.
+Scanlines and an inverted vignette are applied here, rather than at the end, to allow for a specific distribution of the palette.
 
 ![Step 4](./images/process/4-scanlinesvignette.png)
 
@@ -61,4 +59,5 @@ Bayer 8x8 dithering is applied to create an interesting regular yet grainy look.
 
 ![Step 6](./images/process/6-dither.png)
 
-## 
+## Summary
+With this series, I endeavored to capture the optimistic, lighthearted and surreal mood of the most influential cartoons of my childhood. I hope that I've been successful in transporting you to another realm, and in honoring the masters of animation whose works were so deeply inspirational.
