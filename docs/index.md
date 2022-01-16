@@ -2,9 +2,9 @@
 ## Project Overview
 Haywire Café is a long-form generative art project designed for Art Blocks. The combination of bold colors, distorted patterns, and dramatic shadows creates a surreal, nostalgic vibe.  
 
-![Test Mint 5](./images/test5.png)
-![Test Mint 26](./images/test26.png)
-![Test Mint 49](./images/test49.png)
+![Test Mint 5](./images/test5-600.png)
+![Test Mint 26](./images/test26-600.png)
+![Test Mint 49](./images/test49-600.png)
 
 ## Inspiration
 This series is inspired by classic mind-bending mid century cartoons by the likes of Chuck Jones, Maurice Noble, and Dr. Seuss. These cartoons shaped my sense of style with their exaggerated perspective, smart humor, and breaking of the fourth wall.
