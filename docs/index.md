@@ -1,6 +1,6 @@
 
 ## Project Overview
-Haywire Café is a long-form generative art project designed for Art Blocks. The combination of bold colors, distorted patterns, and dramatic shadows creates a surreal, nostalgic vibe.  
+![Haywire Café](https://www.artblocks.io/project/262) is a long-form generative art project designed for Art Blocks. The combination of bold colors, distorted patterns, and dramatic shadows creates a surreal, nostalgic vibe.  
 
 ![Test Mint 5](./images/test5-600.png)
 ![Test Mint 26](./images/test26-600.png)
